@@ -1,0 +1,32 @@
+header{
+    background: #080E33;
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+}
+nav a{
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0 10px;
+    color: #DDD;
+    text-decoration: none;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+nav a:hover{
+    background: #DDD;
+    color: #080E33;
+}
+
+.headerInfo{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
