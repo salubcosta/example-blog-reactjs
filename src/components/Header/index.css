@@ -1,3 +1,11 @@
+.colorCustom{
+    color: #ddd;
+} 
+
+
+
+
+/* in refactoring
 header{
     background: #080E33;
     margin: 0;
@@ -29,4 +37,4 @@ nav a:hover{
     justify-items: center;
     align-items: center;
     margin-bottom: 10px;
-}
+}*/
